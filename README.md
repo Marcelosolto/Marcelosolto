@@ -1,5 +1,65 @@
 ### Hi there 👋
 
+[![Years Badge](https://badges.pufler.dev/years/marcelosolto)](https://linkedin.com/in/marcelosolto) [![Repos Badge](https://badges.pufler.dev/repos/marcelosolto)](https://github.com/marcelosolto?tab=repositories) [![Gists Badge](https://badges.pufler.dev/gists/marcelosolto)](https://gist.github.com/marcelosolto) ![](https://visitor-badge.glitch.me/badge?page_id=marcelosolto.visitor-badge)
+
+[<img src="https://raw.githubusercontent.com/marcelosolto/marcelosolto/master/assets/intro.gif" alt="👋 Hi there! I'm Marcelo Solto/marcelosolto.github.io" title="👋 Hi there! I'm Marcelo Solto/marcelosolto.github.io"/>](https:// marcelosolto.github.io/marcelosolto)
+
+[![GitHub marcelosolto](https://img.shields.io/github/followers/marcelosolto?label=follow&style=social)](https://github.com/marcelosolto)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/marcelosolto)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelosolto/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marcelosolto72@gmail.com)
+
+# 👨🏻‍💻 About me
+
+**💻 full stack Independent | You can hire me.**
+
+<div>
+    <img align="right" width="50%" src="https://raw.githubusercontent.com/marcelosolto/marcelosolto/master/assets/code.gif" alt="fullstack developer animated image"/>
+
+  Fast learner and eager to explore new technologies.
+
+  Like to share knowledge.
+
+  Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code.
+
+  Always questioning the status quo and wanting to improve.
+
+  Able and willing to think outside the box.
+
+  Steadily growing into Fullstack development and recently into , .Net, C#, NodeJS and PHP.
+  
+</div>
+
+### ➕ A little bit more
+
+My first contact with code was through my son Guilherme, who recently graduated in Systems Development, this graduation I am concluding on 12/2021, believe me it is much more than a straw, it is overcoming it is a dream that came out of the drawer never again come back.
+I'm very passionate about new tech and all things releated.
+
+
+
+# 📧 Contact
+
+* 📫 How to reach me: [marcelosolto72@gmail.com](maito:marcelosolto72@gmail.com)
+
+
+# 🏆️ Achievements in 2020
+* Completed  26 cursos no ano de 2020 - (see certificate links below)
+  - [Digital Innovation One](https://web.digitalinnovation.one/users/marcelosolto72?tab=achievements) -✔️**done!**
+  
+
+# 💡 Goals for 2021
+* Build a few projects
+* Become skilled in JavaScript , Typescript, Software Architecture and Testing Driven-Development
+* Start a new side-project
+
+</div>
+
+
+
+
+
+
+
 <!--
 **Marcelosolto/Marcelosolto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
