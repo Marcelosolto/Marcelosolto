@@ -43,8 +43,9 @@ I'm very passionate about new tech and all things releated.
 
 
 # 🏆️ Achievements in 2020
-* Completed  26 cursos no ano de 2020 - (see certificate links below)
-  - [Digital Innovation One](https://web.digitalinnovation.one/users/marcelosolto72?tab=achievements) -✔️**done!**
+* Completed  twenty-six courses in the year 2020 - (see certificate links below)
+
+- [Digital Innovation One](https://web.digitalinnovation.one/users/marcelosolto72?tab=achievements) -✔️**done!**
   
 
 # 💡 Goals for 2021
