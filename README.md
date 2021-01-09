@@ -67,6 +67,15 @@ I'm very passionate about new tech and all things releated.
     <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api?username=marcelosolto&show_icons=true&hide_border=true" alt="marcelosolto" /></p>
 </p>
 
+<p align="center">
+Connect with me <br>
+<a href="https://www.linkedin.com/in/marcelosolto/">
+  <img align="center" alt="marcelosolto's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/marcelosolto">
+  <img align="center" alt="marcelosolto's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+</p>
 
 
 
