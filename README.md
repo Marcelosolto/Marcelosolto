@@ -14,7 +14,7 @@
 **💻 full stack Independent | You can hire me.**
 
 <div>
-    <img align="right" width="50%" src="https://raw.githubusercontent.com/marcelosolto/marcelosolto/master/assets/code.gif" alt="fullstack developer animated image"/>
+    <img align ="right" width="50%" src="https://raw.githubusercontent.com/marcelosolto/marcelosolto/master/assets/code.gif" alt="fullstack developer animated image"/>
 
   Fast learner and eager to explore new technologies.
 
