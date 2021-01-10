@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![Years Badge](https://badges.pufler.dev/years/marcelosolto)](https://linkedin.com/in/marcelosolto) [![Repos Badge](https://badges.pufler.dev/repos/marcelosolto)](https://github.com/marcelosolto?tab=repositories) [![Gists Badge](https://badges.pufler.dev/gists/marcelosolto)](https://gist.github.com/marcelosolto) ![](https://visitor-badge.glitch.me/badge?page_id=marcelosolto.visitor-badge)
 
+[<img src="https://i.pinimg.com/originals/7f/dc/e2/7fdce2dc9307aff4f5acb88cc06b5904.gif" alt="👋 Hi there! I'm Marcelo Solto/marcelosolto.github.io" title="👋 Hi there! I'm Marcelo Solto/marcelosolto.github.io"/>
 
 
 [![GitHub marcelosolto](https://img.shields.io/github/followers/marcelosolto?label=follow&style=social)](https://github.com/marcelosolto)
