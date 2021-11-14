@@ -4,7 +4,7 @@
 [<img src="https://i.pinimg.com/originals/7f/dc/e2/7fdce2dc9307aff4f5acb88cc06b5904.gif" alt="👋 Hi there! I'm Marcelo Solto/marcelosolto.github.io" title="👋 Hi there! I'm Marcelo Solto/marcelosolto.github.io"/>
 
 
-[![GitHub marcelosolto](https://img.shields.io/github/followers/marcelosolto?label=follow&style=social)](https://github.com/marcelosolto)
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/marcelosolto)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelosolto/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marcelosolto72@gmail.com)
@@ -26,7 +26,7 @@
 
   Able and willing to think outside the box.
 
-  Steadily growing into Fullstack development and recently into , .Net, C#, NodeJS and PHP.
+  Steadily growing into Fullstack development and recently into ,Java, .Net, C#, NodeJS and PHP.
   
 </div>
 
@@ -45,8 +45,7 @@ I'm very passionate about new tech and all things releated.
 # 🏆️ Achievements in 2020
 * Completed  twenty-six courses in the year 2020 - (see certificate links below)
 
-- [Digital Innovation One](https://web.digitalinnovation.one/users/marcelosolto72?tab=achievements) -✔️**done!**
-  
+
 
 
 
